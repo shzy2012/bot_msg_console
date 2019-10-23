@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-var port = flag.String("p", "9010", "http port")
+var port = flag.String("p", "8000", "http port")
 
 //staticHandler static file server
 func staticHandler(h http.Handler) http.Handler {
