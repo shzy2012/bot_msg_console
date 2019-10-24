@@ -13,7 +13,7 @@
 
 开发语言: golang,javascript
 ```
-
+---
 
 使用方法：
 ```text
@@ -21,6 +21,9 @@
 2. 打开console页面，查看日志  http://console.wul.ai/
 ```
 
+<img src="https://github.com/shzy2012/static/blob/master/console.png?raw=true" width="600" height="400">
 
 
-部署注意事项:单机部署
+---
+
+部署注意事项:单机部署，防止代理分发混乱
