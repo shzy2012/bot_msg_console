@@ -2,7 +2,7 @@
 
 背景
 ```text
-在实际项目或开发调试阶段，为了排查问题，需要一个工具方便查看Bot响应数据，所以就开发了通过消息路由打印bot日志，方便debug.
+在实际项目或开发调试阶段，为了快速排查问题，需要一个实时工具方便查看Bot响应数据，所以就开发了通过消息路由打印bot日志，方便debug.
 
 使用场景: 
     场景1.线上项目，客户反映收到的机器人回复不对，此场景使用“消息路由日志”可以容易排查bot的回复数据，确认是否是该问题
@@ -27,8 +27,8 @@
 
 使用方法：
 ```text
-1. 吾来平台填写回调消息路由地址 http://console.wul.ai/bot/message_route
-2. 打开console页面，查看日志  http://console.wul.ai/
+1. 吾来平台填写回调消息路由地址 http://message.wul.ai/bot/message_route
+2. 打开console页面，查看日志  http://message.wul.ai/
 ```
 
 <img src="https://github.com/shzy2012/static/blob/master/console.png?raw=true" width="600" height="400">
